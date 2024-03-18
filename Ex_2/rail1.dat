@@ -1,0 +1,9 @@
+IChaifa	ICtelaviv	31
+IChaifa	Eilat	183
+ICtelaviv	IChaifa	29
+ICtelaviv	CSashdod	27
+CSashdod	Qatsrin	72
+CSbeersheva	IChaifa	101
+CSbeersheva	ICjerusalem	17
+Eilat	ICjerusalem	76
+ICjerusalem	CSashdod	28
